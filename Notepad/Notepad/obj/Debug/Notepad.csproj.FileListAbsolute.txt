@@ -1,0 +1,12 @@
+C:\Users\msi\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\msi\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\msi\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.MainForm.resources
+C:\Users\msi\source\repos\Notepad\Notepad\obj\Debug\Notepad.Controls.CustomRichTextBox.resources
